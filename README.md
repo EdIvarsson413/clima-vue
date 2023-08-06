@@ -7,6 +7,13 @@ Aprendiendo sobre:
 - Eventos y Custom Emits de un composable a un componente.
 - Buena practica para organizar el código de script en un composable.
 
+## Nota
+Se puede agregar el estado en el campo de la ciudad de esta forma:
+```
+Ciudad:
+    [Tu ciudad], [Tu estado]
+```
+
 ## Vue 3 + Vite
 
 Este proyeto es un SPA para el comienzo del aprendizaje de VueJS. Utilizando las ultimas versiones de Vite & Vue.
